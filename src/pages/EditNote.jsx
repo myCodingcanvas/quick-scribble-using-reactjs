@@ -73,7 +73,7 @@ import useCreateDate from "../components/useCreateDate";
             </form>
 
             <footer className="notes__footer">
-               Built by Khushi Agrawal
+            Khushi Agrawal &#169; 2023
               </footer>
 
     </section>
